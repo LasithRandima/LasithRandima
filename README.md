@@ -1,19 +1,19 @@
-- 👋 Hi, I’m @dilumsadeepa
+- 👋 Hi, I’m @LasithRandima
 - 👀 I’m interested in web devrlopment
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on web applications
 
 
 <!---
-dilumsadeepa/dilumsadeepa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+LasithRandima/LasithRandima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <p align="right">
-  <a href="https://github.com/dilumsadeepa">
-    <img src="https://komarev.com/ghpvc/?username=dilumsadeepa&style=flat-square&color=040404" alt="Visitors" />
+  <a href="https://github.com/LasithRandima">
+    <img src="https://komarev.com/ghpvc/?username=LasithRandima&style=flat-square&color=040404" alt="Visitors" />
   </a>
-  <a href="https://github.com/dilumsadeepa?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/dilumsadeepa?style=flat-square&color=040404&labelColor=565656&logo=github" alt="Followers" />
+  <a href="https://github.com/LasithRandima?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/LasithRandima?style=flat-square&color=040404&labelColor=565656&logo=github" alt="Followers" />
   </a>
 </p>
 
@@ -22,10 +22,10 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-[![](https://img.shields.io/website?color=040404&style=flat-square&labelColor=18d26e&up_message=MS&url=https://github.com/dilumsadeepa)](https://github.com/dilumsadeepa)
+[![](https://img.shields.io/website?color=040404&style=flat-square&labelColor=18d26e&up_message=MS&url=https://github.com/LasithRandima)](https://github.com/LasithRandima)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-075e54?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+94789843284)](https://wa.me/+94789843284)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dilum19990612@gmail.com)](mailto:dilum19990612@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/dilumsadeepa)](https://github.com/dilumsadeepa)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/LasithRandima)](https://github.com/LasithRandima)
 <!--[![Stack-overflow Badge](https://img.shields.io/badge/Stack-overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/13410194/madushan-sandaruwan)](https://stackoverflow.com/users/13410194/madushan-sandaruwan)-->
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&labelColor=0a66c2&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dilum-sadeepa-b077801a4//)](https://www.linkedin.com/in/dilum-sadeepa-b077801a4/)
 <!--
@@ -37,10 +37,10 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 
-<a href="#dilumsadeepa-title">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=dilumsadeepa&show_icons=true&title_color=18d26e&icon_color=18d26e&text_color=ffffff&bg_color=040404&border_color=18d26e" alt="dilumsadeepa" align="left" />
+<a href="#LasithRandima-title">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=LasithRandima&show_icons=true&title_color=18d26e&icon_color=18d26e&text_color=ffffff&bg_color=040404&border_color=18d26e" alt="LasithRandima" align="left" />
 </a>
 
-<a href="#dilumsadeepa-title">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilumsadeepa&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="dilumsadeepa" align="right" />
+<a href="#LasithRandima-title">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LasithRandima&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="LasithRandima" align="right" />
 </a>
