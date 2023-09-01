@@ -4,7 +4,7 @@
 
 
 - 👋 Hi, I’m @LasithRandima
-- 👀 I’m interested in web devrlopment
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on web applications
 
