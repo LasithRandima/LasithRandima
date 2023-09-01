@@ -1,3 +1,8 @@
+<p align="center">
+<img alt="banner" width="1200px" src="banner.jpg"</img>
+</p>
+
+
 - 👋 Hi, I’m @LasithRandima
 - 👀 I’m interested in web devrlopment
 - 🌱 I’m currently learning
