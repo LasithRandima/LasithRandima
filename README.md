@@ -3,11 +3,6 @@
 </p>
 
 
-- 👋 Hi, I’m @LasithRandima
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on web applications
-
 
 <!---
 LasithRandima/LasithRandima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
