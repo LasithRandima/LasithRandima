@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <h1 align="left" id="macropower-title"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"></a> Hello there! I'm Lasith Randima</h1>
-<p align="left">I'm Lasith from Nittambuwa, a passionate Software Engineering undergraduate with a knack for developing innovative solutions. Proficient in Java, C, Python, PHP, JavaScript, HTML5, and CSS3, I also work with frameworks like Laravel, Django, Node.js, and React, alongside MySQL database management. Eager to continuously learn and embrace new challenges, I thrive in dynamic environments and love collaborating on impactful projects.</p>
+<p align="left">I'm Lasith from Nittambuwa, and I'm an Undergraduate of the Faculty of Technology, University of Ruhuna in Sri Lanka (Bachelor of information communication technology Honours). Proficient in Java, C, Python, PHP, JavaScript, HTML5, and CSS3, I also work with frameworks like Laravel, Django, Node.js, and React, alongside MySQL database management. I Love Web Development. Eager to continuously learn and embrace new challenges, I thrive in dynamic environments and love collaborating on impactful projects.</p>
 
 <br>
 
