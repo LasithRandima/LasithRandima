@@ -37,10 +37,10 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 
-<a href="#LasithRandima-title">
+<!--<a href="#LasithRandima-title">
   <img width="55%" src="https://github-readme-stats.vercel.app/api?username=LasithRandima&show_icons=true&title_color=18d26e&icon_color=18d26e&text_color=ffffff&bg_color=040404&border_color=18d26e" alt="LasithRandima" align="left" />
 </a>
 
 <a href="#LasithRandima-title">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LasithRandima&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="LasithRandima" align="right" />
-</a>
+</a>-->
